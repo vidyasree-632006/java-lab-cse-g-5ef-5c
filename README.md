@@ -22,4 +22,4 @@ class Deletechar{
 
 ```
 # OUTPUT: 
-[OUTPUT OF 5C](new5c.png)
+![OUTPUT OF 5C](new5c.png)
